@@ -1,1 +1,1 @@
-test
+some template
